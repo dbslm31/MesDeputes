@@ -34,11 +34,11 @@ Un input de recherche permet de d'effectuer une recherche par nom ou par ville a
 
 Affiche les informations concernant l'activité parlementaire d'un député sur la période 2017 - 2022 : son nom, sa circonscription, son parti politique, ses informations de contact, ses responsabilités et ses derniers votes.
 
-> [!NOTE]
+> [!NOTE] 
 > L'affichage des responsabilités a été limité à 2 ; celui des votes à 3 dans un soucis d'optimisation du temps de chargement du MVP
 
 ## Captures d'écran
-![Screenshot of the search feature](https://i.ibb.co/V9G9w6c/Capture-d-e-cran-2024-04-07-a-09-15-29.png) ![Screenshot of the deputy activity](https://i.ibb.co/v1pZ1vN/Capture-d-e-cran-2024-04-07-a-09-55-15.png)
+![Screenshot of the search feature](https://i.ibb.co/V9G9w6c/Capture-d-e-cran-2024-04-07-a-09-15-29.png) ![Screenshot of the deputy activity](https://iili.io/JObSnLP.png)
 
 
 
