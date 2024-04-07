@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#FFFFFF" /> <!-- Cette couleur est celle du fond, assurez-vous qu'elle corresponde au fond de votre vue/image -->
+        </shape>
+    </item>
+    <item android:drawable="@mipmap/ic_launcher" /> <!-- Remplacez @mipmap/ic_launcher par votre image -->
+</layer-list>

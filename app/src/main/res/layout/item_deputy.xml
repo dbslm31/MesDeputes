@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/imageViewItemDeputy"
+        android:layout_width="0sp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:src="@mipmap/ic_launcher" />
+
+    <LinearLayout
+        android:layout_width="0sp"
+        android:layout_weight="3"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_margin="20sp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textViewItemDeputyName"
+            android:layout_width="match_parent"
+            android:textSize="24sp"
+            android:layout_marginBottom="10sp"
+            android:layout_height="wrap_content"
+            android:text="Nom Prénom" />
+
+        <TextView
+            android:id="@+id/textViewItemDeputyCirco"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dept, Circonscription" />
+    </LinearLayout>
+</LinearLayout>

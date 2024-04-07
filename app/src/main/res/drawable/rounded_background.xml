@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="#FFFFFF"/><!-- Couleur de fond -->
+   <stroke  android:color="#FFF" android:width="2dp" />
+    <!-- Vous pouvez ajuster la taille ici si nécessaire -->
+</shape>
